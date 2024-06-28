@@ -45,7 +45,7 @@ const Navbar = () => {
       };
     }, [navPading]);
     return (
-      <div className={`flex  ${navPading&&'md:pt-24'} duration-500 z-50 justify-between md:px-12 2xl:px-36 xl:px-24 md:py-12 py-12 px-2 sm:px-6 border-b fixed w-full bg-white top-0`}>
+      <div className={`flex  ${navPading&&'md:pt-4'} duration-500 z-50 justify-between md:px-12 2xl:px-36 xl:px-24 md:py-12 py-12 px-2 sm:px-6 border-b fixed w-full bg-white top-0`}>
         <h6 className='font-bold text-xl '>Aaron</h6>
         <ul className='flex w-9/12 justify-between max-w-128'>
             {routes.map((itm,id)=>{
