@@ -15,7 +15,6 @@ const Portfolio = () => {
 
      <PorfolioCard src="/Images/E-commerce.png" githhub="https://github.com/jeffery959/SwiftMart" visit="https://classy-sable-c626a3.netlify.app/"/>
      <PorfolioCard src="/Images/JaneHome.png" githhub="https://github.com/jeffery959/Jan-Art-Gallery/tree/main" visit="https://jan-art-gallery-jeffery959s-projects.vercel.app/"/>
-     <PorfolioCard src="/Images/JaneHome.png" githhub="https://github.com/jeffery959/Jan-Art-Gallery/tree/main" visit="https://jan-art-gallery-jeffery959s-projects.vercel.app/"/>
      <PorfolioCard src="/Images/tictactoe.PNG" githhub="https://github.com/jeffery959/tictactoe/tree/main" visit="https://tictactoe-sepia-xi.vercel.app/"/>
     
  
