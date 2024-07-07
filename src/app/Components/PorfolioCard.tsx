@@ -10,7 +10,7 @@ const PorfolioCard = ({src,visit,githhub}:{src:string,visit:string,githhub:strin
         <Link href={visit} target='_blank'>
       <button  className="border border-gray-600 text-gray-600 py-2 px-4 rounded-3xl hover:border-gray-900  hover:text-black">Visit</button>
         </Link>
-        <Link href={githhub}>
+        <Link href={githhub} target='_blank'>
       <button  className="border border-gray-600 text-gray-600 py-2 px-4 rounded-3xl hover:border-gray-900  hover:text-black">Github</button>
         </Link>
     </div>

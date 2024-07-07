@@ -13,9 +13,10 @@ const Portfolio = () => {
     <div className="bg-primary w-full md:mt-6 mt-8 flex justify-center items-center">
      <div className="w-full max-w-448 flex justify-center md:gap-10 gap-6  py-20 flex-wrap  Divpadding">
 
-     <PorfolioCard src="/Images/E-commerce.png" githhub="https://github.com/jeffery959/SwiftMart" visit="https://classy-sable-c626a3.netlify.app/"/>
+     <PorfolioCard src="/Images/Recipe.PNG" githhub="https://github.com/jeffery959/Jan-Art-Gallery/tree/main" visit="https://reciepe-n.vercel.app/"/>
      <PorfolioCard src="/Images/JaneHome.png" githhub="https://github.com/jeffery959/Jan-Art-Gallery/tree/main" visit="https://jan-art-gallery-jeffery959s-projects.vercel.app/"/>
-     <PorfolioCard src="/Images/tictactoe.PNG" githhub="https://github.com/jeffery959/tictactoe/tree/main" visit="https://tictactoe-sepia-xi.vercel.app/"/>
+     <PorfolioCard src="/Images/E-commerce.png" githhub="https://github.com/jeffery959/SwiftMart" visit="https://classy-sable-c626a3.netlify.app/"/>
+     <PorfolioCard src="/Images/tictactoe.PNG" githhub="https://github.com/jeffery959/Reciepe-n/tree/main" visit="https://tictactoe-sepia-xi.vercel.app/"/>
     
  
 
