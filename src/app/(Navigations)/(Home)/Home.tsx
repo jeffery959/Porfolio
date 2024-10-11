@@ -18,7 +18,7 @@ const Home = () => {
       </div>
        </div>
 
-       <Image src={'/Images/Port.png'} width={500} height={500} className="w-full  shadow-lg rounded-3xl max-w-96 hover:shadow-2xl duration-500" alt=""/>
+       <Image src={'/Images/Port.jpeg'} width={500} height={500} className="w-full  shadow-lg rounded-3xl max-w-96 hover:shadow-2xl duration-500" alt=""/>
       </section>
   )
 }
